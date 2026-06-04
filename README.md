@@ -12,7 +12,7 @@
 <br/>
 
 <h1 align="center">
-  🛒 Virtusa AI-Assisted Shopping Cart
+  🛒 AI-Assisted Shopping Cart
 </h1>
 
 <p align="center">
