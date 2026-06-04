@@ -50,7 +50,7 @@
 
 ## 🎯 Project Overview
 
-**Virtusa AI-Assisted Shopping Cart** is a full-stack e-commerce application that seamlessly integrates:
+**AI-Assisted Shopping Cart** is a full-stack e-commerce application that seamlessly integrates:
 
 - A **beautiful React frontend** with product browsing, order management, and a fixed AI chatbot panel
 - A **multi-agent AI chatbot** (LangGraph) that answers product questions, manages orders, and checks status — all connected to live databases
